@@ -1,8 +1,10 @@
-Metodo Montecarlo para Pi
+METODO MONTECARLO PI
 
 Este programa sirve para hallar el valor de Pi mediante el metodo Montecarlo, cuyo funcionamiento se puede comprobar mediante el siguiente video. 
 
-Instalación
+https://www.youtube.com/watch?v=ELetCV_wX_c
+
+INSTALACION
 
 El código puede ser descargado mediante GitHub.
 Uso del make
