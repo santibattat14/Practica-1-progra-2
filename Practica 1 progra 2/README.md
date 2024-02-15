@@ -23,6 +23,11 @@ Crea el directorio html y los ficheros .html.
 Crea el .jar
 
 	make jar
+ Cómo realizar el JavaDoc
+
+El JavaDoc se realizará mediante el sigueinte comando.
+
+mvn javadoc:javadoc
 
 Limpia, compila, crea los .jar, los html y ejecuta la interfaz.
 
